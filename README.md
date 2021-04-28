@@ -10,7 +10,7 @@
 ## Code 401 - Advanced Software Development
 
 ## table of contents
-- class301
+- class401
 
 page | links
 ---- | -----
