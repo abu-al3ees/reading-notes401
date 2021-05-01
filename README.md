@@ -14,7 +14,7 @@
 
 page | links
 ---- | -----
-1 read01| 
+1 read01| [read01](https://abu-al3ees.github.io/reading-notes401/read01)
 2 read02| 
 3 read03| 
 4 read04| 
