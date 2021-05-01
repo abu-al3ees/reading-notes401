@@ -21,8 +21,8 @@ async function randomNumber(){
     console.log(result);
 }
 
-
-
+## Are all callback functions considered to be Asynchronous? Why or Why Not?
+allbacks don't have anything to do with the async concept at all. They're just regular functions, and they don't know or care whether they're going to be called asynchronously 
 
 
 
