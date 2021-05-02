@@ -34,15 +34,20 @@ As opposed to SOAP, REST is not a protocol but an architectural style. The REST 
 As SOAP is an official protocol, it comes with strict rules and advanced security features such as built-in ACID compliance and authorization.
 
 
- ## Node.js 
- is an open-source, cross-platform runtime environment that allows developers to create all kinds of server-side tools and applications in JavaScript. The runtime is intended for use outside of a browser context (i.e. running directly on a computer or server OS).
+ 
+
+###  Express
+
+ is the most popular Node web framework, and is the underlying library for a number of other popular Node web frameworks. 
+###  Web Server
+
+ is software and hardware that uses HTTP (Hypertext Transfer Protocol) and other protocols to respond to client requests made over the World Wide Web.
+
+### Routing 
+
+is a mechanism where HTTP requests are routed to the code that handles them. To put it simply, in the Router you determine what should happen when a user visits a certain page.
 
 
- Express is the most popular Node web framework, and is the underlying library for a number of other popular Node web frameworks. It provides mechanisms to:
+### WRRC
+ Web Request-Response Cycle
 
-- Write handlers for requests with different HTTP verbs at different URL paths (routes).
-- Integrate with "view" rendering engines in order to generate responses by inserting data into templates.
-- Set common web application settings like the port to use for connecting, and the location of templates that are used for rendering the response.
-- Add additional request processing "middleware" at any point within the request handling pipeline.
-
-While Express itself is fairly minimalist, developers have created compatible middleware packages to address almost any web development problem
