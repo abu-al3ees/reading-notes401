@@ -14,18 +14,18 @@
 
 page | links
 ---- | -----
-1 read01| [read01](https://abu-al3ees.github.io/reading-notes401/read01)
-2 class01|  [class01](https://abu-al3ees.github.io/reading-notes401/class01)
+1 class00| [class01](https://abu-al3ees.github.io/reading-notes401/class01) 
+2 read01| [read01](https://abu-al3ees.github.io/reading-notes401/read01)
 3 read02| [read02](https://abu-al3ees.github.io/reading-notes401/read02)
-4 read04| 
-5 read05|
-6 read06| 
-7 read07| 
-8 read08|
-9 read09|
-10 read10| 
-11 read11| 
-12 read12| 
-13 read13|
-14 read14|
-15 read15| 
+4 read03| [read03](https://abu-al3ees.github.io/reading-notes401/read03)
+5 read04|
+6 read05| 
+7 read06| 
+8 read07|
+9 read08|
+10 read09| 
+11 read10| 
+12 read11| 
+13 read12|
+14 read13|
+15 read14| 
