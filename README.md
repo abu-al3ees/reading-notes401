@@ -14,7 +14,7 @@
 
 page | links
 ---- | -----
-1 class00| [class01](https://abu-al3ees.github.io/reading-notes401/class01) 
+1 class0| [class01](https://abu-al3ees.github.io/reading-notes401/class01) 
 2 read01| [read01](https://abu-al3ees.github.io/reading-notes401/read01)
 3 read02| [read02](https://abu-al3ees.github.io/reading-notes401/read02)
 4 read03| [read03](https://abu-al3ees.github.io/reading-notes401/read03)
