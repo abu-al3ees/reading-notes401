@@ -31,3 +31,10 @@ page | links
 15 read14| [read14](https://abu-al3ees.github.io/reading-notes401/read14)
 15 read15| [read15](https://abu-al3ees.github.io/reading-notes401/read15)
 16 read16| [read16](https://abu-al3ees.github.io/reading-notes401/read16)
+17 read17| [read17](https://abu-al3ees.github.io/reading-notes401/read17)
+
+
+
+
+
+
