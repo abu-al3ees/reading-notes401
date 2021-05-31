@@ -32,6 +32,13 @@ page | links
 15 read15| [read15](https://abu-al3ees.github.io/reading-notes401/read15)
 16 read16| [read16](https://abu-al3ees.github.io/reading-notes401/read16)
 17 read17| [read17](https://abu-al3ees.github.io/reading-notes401/read17)
+18 read18| [read18](https://abu-al3ees.github.io/reading-notes401/read18)
+19
+20
+21
+22
+23
+24
 
 
 
