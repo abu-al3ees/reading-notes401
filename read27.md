@@ -33,7 +33,7 @@ Handling events with React elements is very similar to handling events on DOM el
 HTML form elements work a bit differently from other DOM elements in React, because form elements naturally keep some internal state
 
 ## Controlled Components
-In HTML, form elements such as <input>, <textarea>, and <select> typically maintain their own state and update it based on user input. In React, mutable state is typically kept in the state property of components, and only updated with setState().
+In HTML, form elements such as input, textarea, and select typically maintain their own state and update it based on user input. In React, mutable state is typically kept in the state property of components, and only updated with setState().
 
 
 ## Components and Props
