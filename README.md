@@ -37,7 +37,7 @@ page | links
 20 read20| [read26](https://abu-al3ees.github.io/reading-notes401/read26)
 21 read21| [read27](https://abu-al3ees.github.io/reading-notes401/read27)
 22 read22| [read28](https://abu-al3ees.github.io/reading-notes401/read28)
-23
+23 read23| [read29](https://abu-al3ees.github.io/reading-notes401/read29)
 24
 
 
