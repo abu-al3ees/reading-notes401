@@ -40,10 +40,10 @@ page | links
 23 read23| [read29](https://abu-al3ees.github.io/reading-notes401/read29)
 24 read24| [read30](https://abu-al3ees.github.io/reading-notes401/read30)
 25 read25| [read31](https://abu-al3ees.github.io/reading-notes401/read31)
-26 read26|
-28
-29
-30
+26 read26| [read32](https://abu-al3ees.github.io/reading-notes401/read32)
+28 read27| [read33](https://abu-al3ees.github.io/reading-notes401/read33)
+29 read28| [read34](https://abu-al3ees.github.io/reading-notes401/read34)
+30 read29| [read35](https://abu-al3ees.github.io/reading-notes401/read35)
 
 
 
