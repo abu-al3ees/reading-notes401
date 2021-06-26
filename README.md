@@ -44,6 +44,11 @@ page | links
 28 read27| [read33](https://abu-al3ees.github.io/reading-notes401/read33)
 29 read28| [read34](https://abu-al3ees.github.io/reading-notes401/read34)
 30 read29| [read35](https://abu-al3ees.github.io/reading-notes401/read35)
+31 read30| [read36](https://abu-al3ees.github.io/reading-notes401/read36)
+32 read31| [read37](https://abu-al3ees.github.io/reading-notes401/read37)
+33 read32| [read38](https://abu-al3ees.github.io/reading-notes401/read38)
+34 read33| [read39](https://abu-al3ees.github.io/reading-notes401/read39)
+30 read34| [read40](https://abu-al3ees.github.io/reading-notes401/read40)
 
 
 
